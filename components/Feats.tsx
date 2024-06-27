@@ -10,7 +10,7 @@ const Feats = () => {
 						<p className='mt-2 text-2xl text-center font-bold tracking-tight text-gray-300 sm:text-4xl'>
 							All-in-one destination for Photography and Videography services.
 						</p>
-						<p className='mt-6 text-lg leading-8 text-gray-00'>
+						<p className='mt-14 text-lg leading-8 text-gray-00'>
 							Whether it's the elegance of a wedding, the sleek lines of an
 							automobile, the intimacy of a portrait, or the vibrancy of an
 							event, we are here to ensure each moment is immortalized with
@@ -44,26 +44,24 @@ const Feats = () => {
 							<div className='relative pl-16'>
 								<dt className='text-base font-semibold leading-7 text-gray-300'>
 									<div className='absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-indigo-300'>
-										<svg
-											className='h-6 w-6 text-white'
-											fill='none'
-											viewBox='0 0 24 24'
-											stroke-width='1.5'
-											stroke='currentColor'
-											aria-hidden='true'
-										>
-											<path
-												stroke-linecap='round'
-												stroke-linejoin='round'
-												d='M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z'
-											/>
-										</svg>
+										<img
+											id='dimg_p859ZsvhDfTlxc8Ph8mL8A4_321'
+											src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfllYSw8AydwVXY3cCjriuDpc1a6jbW_nFcg&amp;s'
+											className='YQ4gaf'
+											height={225}
+											style={{ objectPosition: '25% 30%' }}
+											width={225}
+											alt='Winter Wedding Couple SVG File for ...'
+											data-ilt='1719520936821'
+										/>
 									</div>
-									SSL certificates
+									Automobiles
 								</dt>
 								<dd className='mt-2 text-base leading-7 text-gray-300'>
-									Sit quis amet rutrum tellus ullamcorper ultricies libero dolor
-									eget. Sem sodales gravida quam turpis enim lacus amet.
+									From classic cars to luxury models and custom builds, we
+									expertly showcase each automobile's essences. We capture the
+									sleek lines, intricate details, and powerful presence of your
+									vehicles.
 								</dd>
 							</div>
 							<div className='relative pl-16'>
