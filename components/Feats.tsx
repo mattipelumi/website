@@ -33,7 +33,7 @@ const Feats = () => {
 											data-ilt='1719520936821'
 										/>
 									</div>
-									Wedding Photography and Videography
+									Weddings
 								</dt>
 								<dd className='mt-2 text-base leading-7 text-gray-300'>
 									From intimate ceremonies to grand celebrations, we work
@@ -65,7 +65,7 @@ const Feats = () => {
 								</dd>
 							</div>
 							<div className='relative pl-16'>
-								<dt className='text-base font-semibold leading-7 text-gray-900'>
+								<dt className='text-base font-semibold leading-7 text-gray-300'>
 									<div className='absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-indigo-300'>
 										<svg
 											className='h-6 w-6 text-white'
@@ -82,15 +82,16 @@ const Feats = () => {
 											/>
 										</svg>
 									</div>
-									Simple queues
+									Portraits
 								</dt>
 								<dd className='mt-2 text-base leading-7 text-gray-300'>
-									Quisque est vel vulputate cursus. Risus proin diam nunc
-									commodo. Lobortis auctor congue commodo diam neque.
+									We offer tailored sessions for individuals, families, seniors,
+									couples, and corporate portraits, ensuring each photo reflects
+									your unique personality and story.{' '}
 								</dd>
 							</div>
 							<div className='relative pl-16'>
-								<dt className='text-base font-semibold leading-7 text-gray-900'>
+								<dt className='text-base font-semibold leading-7 text-gray-300'>
 									<div className='absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-indigo-300'>
 										<svg
 											className='h-6 w-6 text-white'
@@ -107,12 +108,12 @@ const Feats = () => {
 											/>
 										</svg>
 									</div>
-									Advanced security
+									Events
 								</dt>
 								<dd className='mt-2 text-base leading-7 text-gray-300'>
-									Arcu egestas dolor vel iaculis in ipsum mauris. Tincidunt
-									mattis aliquet hac quis. Id hac maecenas ac donec pharetra
-									eget.
+									From corporate events and festivals to parties and
+									celebrations, we capture the excitement and essence of every
+									moment beautifully preserved.
 								</dd>
 							</div>
 						</dl>
