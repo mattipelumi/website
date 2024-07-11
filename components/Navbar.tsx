@@ -5,7 +5,7 @@ import pelu from '../assets/pelu.jpg';
 const Navbar = () => {
 	return (
 		<div>
-			<nav className='bg-white border-gray-200 dark:bg-black'>
+			<nav className='bg-white border-gray-100 dark:bg-black'>
 				<div className='max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4'>
 					<a
 						href='https://flowbite.com/'
